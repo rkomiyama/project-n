@@ -507,6 +507,10 @@ padding-bottom: 10px !important;
     padding-bottom: 0;
 }
 
+.footer-links li a:hover {
+    text-decoration: underline !important;
+}
+
 @media screen and (max-width: 991px) {
     .section-navbars .navbar-collapse {
         display: none !important;
